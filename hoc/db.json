@@ -1,0 +1,22 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "customerName": "Иван Иванов",
+      "pickupLocation": "ул. Ленина, 10",
+      "dropoffLocation": "пр. Мира, 25",
+      "status": "pending",
+      "driverName": "Алексей",
+      "price": 350
+    },
+    {
+      "id": 2,
+      "customerName": "Мария Петрова",
+      "pickupLocation": "ул. Пушкина, 5",
+      "dropoffLocation": "ул. Гагарина, 12",
+      "status": "completed",
+      "driverName": "Сергей",
+      "price": 420
+    }
+  ]
+}
